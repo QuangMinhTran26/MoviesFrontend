@@ -6,7 +6,7 @@ import axios from 'axios';
 }); */
 
 export default axios.create({
-    baseURL: 'http://localhost:8080/api', // Replace with your backend server URL
+    baseURL: 'http://localhost:8080', // Replace with your backend server URL
     headers: {
       'Content-type': 'application/json',
       
