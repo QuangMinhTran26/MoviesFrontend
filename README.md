@@ -2,7 +2,7 @@ This is the frontend created with ReactJS for the movie application, which allow
 
 ## How to deploy the website to localhost
 - Clone the [Backend](https://github.com/QuangMinhTran26/MoviesBackend) to your chosen IDE 
-- Clone this repository to you chosen code editor
+- Clone this repository to another code editor
 - Run the backend
 - Open the terminal of the frontend's code editor
 - Type "npm start"
